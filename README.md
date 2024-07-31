@@ -6,7 +6,7 @@ Hi, My name is Thanaphat Pethdongjan
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [thanaphat.peth@gmail.com](mailto:thanaphat.peth@gmail.com)
-* 🧠  I'm learning Flutter and DevOps
+* 🧠  I'm learning Backend and DevOps
 
 ### Skills
 
