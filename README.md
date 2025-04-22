@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanaphat Pethdongjan</h1>
-<h3 align="center">4th-Year Student Computer Engineering</h3>
+<h3 align="center">Cyber Security Engineer (Cloud Security & DevSecOps)</h3>
 
-- 🌱 I’m currently learning **I'm learning DevOps and Cloud Security**
+- 🌱 I’m currently working in **DevSecOps & Cloud Security**
 
 - 📫 How to reach me **thanaphat.peth@gmail.com**
 
